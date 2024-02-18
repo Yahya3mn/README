@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yahya Zakrya Khan</h1>
 <h3 align="center">I am studying Computer Engineering at Karabuk University. I am currently improving my skills on Data Science, Data Analytics, Machine Learning, Deep Learning and Artificial Intelligence.</h3>
 
+![What-is-Artiificial-Intelligence(AI)](https://github.com/Yahya3mn/README/assets/129393359/fcb1c4a8-48bb-457f-83c5-18570e6abd08)
+<br/> <br/>
+
 - 🌱 I’m currently learning **Data Science, Data Analytics, Machine Learning, Deep Learning and Artificial Intelligence.**
 
 - 📫 How to reach me **yahyazakryakhan@gmail.com**
